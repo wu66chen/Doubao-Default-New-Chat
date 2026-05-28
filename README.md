@@ -1,4 +1,9 @@
 # 豆包默认新对话-油猴脚本
+
+![Version](https://img.shields.io/badge/Version-1.0-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+[![GreasyFork](https://img.shields.io/badge/GreasyFork-一键安装-red.svg)](https://update.greasyfork.org/scripts/578874/%E8%B1%86%E5%8C%85%E9%BB%98%E8%AE%A4%E6%96%B0%E5%AF%B9%E8%AF%9D.user.js)
+
 完美解决豆包网页版强制跳转“豆包”默认对话的问题！让你每次打开豆包，都能自动拦截“豆包”对话，强制开启清爽的全新空白对话。小白友好，全程免改代码，安装即用！
 
 ## 为什么你需要这个脚本？
@@ -13,7 +18,7 @@
 
 ## 🛠️ 安装与使用教程
 1. 安装本脚本，点击此链接一键安装此脚本：
-   **[从 Greasy Fork 安装 (推荐)](https://greasyfork.org/zh-CN/scripts/578874)**
+   **[从 Greasy Fork 安装](https://greasyfork.org/zh-CN/scripts/578874)**
 4. 在浏览器地址栏打开 `https://www.doubao.com/`。
 5. 此时网页会弹出一个配置提示框。因为你当前就在“豆包”对话页面，输入框里已经自动提取并填好了当前的“豆包”对话 ID，点击【确定】即可！
 
